@@ -1,6 +1,14 @@
-this is a new file
-add new line for your referance
-add second line for your referance
-add third line for your referance
-add fourth line for your referance
-add fifth line for your referance
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sigma Web Development Course</title>
+  
+</head>
+<body>
+    Hey this is my first website. Sigma Harry bhai ka course achha hai.
+    and ye sigma course hai
+
+</body>
+</html>
