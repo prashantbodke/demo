@@ -1,7 +1,12 @@
 This is a udpated file for your referance
 add new line
 add second line for your referance
+<<<<<<< HEAD
 add new third line for your referance
 add new fourt line for your referance
 add new fift line for your referance
 add new sixt line for your referance
+=======
+add third line for your referance
+add fourt line for your referance
+>>>>>>> f433ab1f3c03513455746dde76c96c8a94f4905c
